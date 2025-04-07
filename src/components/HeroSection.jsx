@@ -45,8 +45,12 @@ export default function HeroSection() {
               Você pode acessar os PDFs por capítulo, podendo baixar ou abrir pelo próprio site.
             </p>
 
-            <p className="mb-6 text-base sm:text-lg text-slate-700">
+            <p className="mb-3 text-base sm:text-lg text-slate-700">
               As atividades extras podem potencializar suas aulas com conteúdos que vão além do que já temos nos livros.
+            </p>
+
+            <p className="mb-6 text-base sm:text-lg text-slate-700">
+            Você pode ver o arquivo do Educador, que tem as respostas, mas também pode imprimir o arquivo do Estudante, caso queira utilizá-lo diretamente com sua turma.
             </p>
 
             {/* Button - centralizado em mobile, sem ocupar toda a largura */}
